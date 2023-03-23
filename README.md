@@ -317,7 +317,7 @@ Featured Repositories.
 
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/shashi-kant-kaushik-36a899144"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:shashikantkaushik4@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
-<a href="https://www.instagram.com/its.kaushik_8702/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashikantkaushik" height="30" width="40" /></a>
+<a href="https://www.instagram.com/its.kaushik_8702/" target="blank"><img width="85px" alt="Instagram"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" /></a>
 
 </br>
 </br>
