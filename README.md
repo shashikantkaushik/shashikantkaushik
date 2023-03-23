@@ -8,14 +8,14 @@
 
 
  
-
+ <p>- <i>A Computer Science Engineering PreFinal Year student & aspiring Software<br> Developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i></p>
+<br>
 
 
 ## ⚡🙋‍♂️ About Me
 
 </br>
- <p>- <i>A Computer Science Engineering PreFinal Year student & aspiring Software<br> Developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i></p>
-<br>
+
 - 🔧 I’m currently Studying in ..I.K.G.Punjab Technical University Mohali-1
 
 - 💡 I’m curious about ...Data Science and Flutter.
@@ -160,7 +160,7 @@
 
 
 <!-- 
-# Featured Repositories 🚀
+# Featured Repositories 
 
 
 <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashikantkaushik&repo=RealTime-TwitterDataAnalysis&theme=swift"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=News-Accumulator&theme=buefy"/> &nbsp; <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=JS-DOM-Snippets&theme=vue"/>
@@ -216,7 +216,7 @@ Featured Repositories.
 
   <summary> <h2> <a href="#">   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>  </a> 
  
-   👆 Click To Expand!! </h2> </summary>
+   Click To Expand!! </h2> </summary>
   
   <table>
    <h2> Section Link </h3> 
@@ -310,7 +310,7 @@ Featured Repositories.
 
 
 
-## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
+## &nbsp; &nbsp;🤙 &nbsp; Connnect with Me
 
 <br/>
 
