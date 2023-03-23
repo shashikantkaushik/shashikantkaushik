@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">Hello 👋, I'm Shashi Kant</h1>
 <h3 align="center">A passionate Web Developer and programmer from India</h3>
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
  
