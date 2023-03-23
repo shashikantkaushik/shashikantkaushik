@@ -1,5 +1,7 @@
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h1 align="center">Hello 🙏, I'm Shashi Kant</h1>
 <h3 align="center">A passionate Web Developer and programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -323,7 +325,7 @@ Featured Repositories.
 
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/shashi-kant-kaushik-36a899144"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:shashikantkaushik4@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
-<a href = "[https://discordapp.com/users/885073575839670302](https://www.instagram.com/its.kaushik_8702/)"><img width="100px" alt = "Discord" src = "[https://img.shields.io/badge/Discord-7289DA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInstagram&psig=AOvVaw2w4dJyIcsC_xahKZXK-3PW&ust=1679696690685000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDXtPaL8_0CFQAAAAAdAAAAABAD)"/></a>
+<a href="https://www.instagram.com/its.kaushik_8702/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashikantkaushik" height="30" width="40" /></a>
 
 </br>
 </br>
