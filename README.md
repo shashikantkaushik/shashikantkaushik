@@ -26,8 +26,6 @@
 
 <hr>
 
-
-
 </br>
 
 
@@ -290,12 +288,7 @@ Featured Repositories.
 </br>
 </br>
 
-
-
-
 </br>
-
- 
  
  </br>
  
@@ -310,7 +303,6 @@ Featured Repositories.
  
 
  
-//?style=flat&logo=discord&logoColor=white
 
   
   
