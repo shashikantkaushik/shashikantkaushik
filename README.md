@@ -308,7 +308,7 @@ Featured Repositories.
   
   
 <br><br>
- -->
+
 
 
 ## &nbsp; &nbsp; 📬📥 &nbsp; Connnect with Me
@@ -317,14 +317,14 @@ Featured Repositories.
 
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/shashi-kant-kaushik-36a899144"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:shashikantkaushik4@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
-<a href="https://www.instagram.com/its.kaushik_8702/" target="blank"><img width="85px" alt="Instagram"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" /></a>
+<a href="https://www.instagram.com/its.kaushik_8702/" target="blank"><img width="85px" alt="Instagram"  src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)" alt="Instagram" /></a>
 
 </br>
 </br>
 
 
 
--->
+
 
 <!--
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaustav202%2Fhit-counter&count_bg=%236DAC3D&title_bg=%23555555&icon=grafana.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>  -->
