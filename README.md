@@ -16,7 +16,7 @@
 
 </br>
 
-- 🔧 I’m currently Studying in ..I.K.Gujral Punjab Technical University Mohali-1
+- 🔧 I’m currently Studying in ..I.K.G.Punjab Technical University Mohali-1
 
 - 💡 I’m curious about ...Data Science and Flutter.
 - 📖 I’m currently learning ...Data Structure and Algo's.
