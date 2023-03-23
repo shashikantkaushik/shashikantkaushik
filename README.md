@@ -5,7 +5,6 @@
  <p>- <i>A Computer Science Engineering PreFinal Year student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i></p>
 
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
 ## ⚡🙋‍♂️ About Me
 
@@ -328,14 +327,14 @@ Featured Repositories.
 ## &nbsp; &nbsp; &nbsp;🔥 My Motto
 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(shashikantkaushik);....+s.explore();....+s.learn();....+s.contribute()"/>
 
 
 
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{shashikantkaushik}/count.svg" /></p> 
 <br>
 </div>
  
@@ -377,16 +376,6 @@ Featured Repositories.
 </br>
 
 
-<!--
-
-<div style = "display: flex; align-items: center; justify-content: center;">
- 
-  <div>
-    
-<a href="https://www.buymeacoffee.com/gkaustav" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 31px !important;width: 154px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; margin-left: 35%;" ></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://ko-fi.com/F1F1BRCNJ"><img src = "https://ko-fi.com/img/githubbutton_sm.svg"/></a>
-    
-  </div>
- </div>
 
 -->
 
