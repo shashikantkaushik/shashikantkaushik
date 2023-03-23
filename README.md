@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <h1 align="center">Hello 👋, I'm Shashi Kant</h1>
-<h3 align="center">A passionate Web Developer and programmer from India</h3>
+<h3 align="center">A passionate Web Developer and programmer from India</h3><br>
 <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
