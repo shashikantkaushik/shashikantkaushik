@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/816651876948b381a9d998556b03b5263f996ec1-800x600.png?w=800&h=600&auto=format">
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Shashi+Kant;Flutter Developer...;Data+Science+Enthusiast...;Coder...;Active+Open+Source+Contributor..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Shashi;Flutter Developer...;Data+Science+Enthusiast...;Coder...;Active+Open+Source+Contributor..."/>
  
  <p>- <i>A Computer Science Engineering PreFinal Year student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i></p>
 
