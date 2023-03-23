@@ -8,7 +8,7 @@
 
 
  
- <p>- <i>A Computer Science Engineering PreFinal Year student & aspiring Software<br> Developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i></p>
+ <p>- <i</i></p>
 
 
 
