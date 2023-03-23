@@ -78,7 +78,7 @@
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=shashikantkaushik&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashikantkaushik&show_icons=true&locale=en&layout=compact" alt="shashikantkaushik" /></p>
  </br>
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashikantkaushik"/>
  </br>
