@@ -1,4 +1,12 @@
 # Hey there👋,I'm Shashi Kant
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<h1 align="center">Hello 🙏, I'm Shashi Kant</h1>
+<h3 align="center">A passionate Web Developer and programmer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trickster26&label=Profile%20views&color=0e75b6&style=flat" alt="trickster26" /> </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Shashi+Kant;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
  
