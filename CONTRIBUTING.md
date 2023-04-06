@@ -55,4 +55,15 @@ If you encounter a problem with this project, please open an issue. Be sure to i
 
 <br>
 
+## &nbsp; &nbsp;🤙 &nbsp; Connnect with Me
+
+<br/>
+
+&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.linkedin.com/in/shashi-kant-kaushik-36a899144"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:shashikantkaushik4@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp; &nbsp; 
+<a href="https://www.instagram.com/its.kaushik_8702/"><img width="125px" alt="Instagram"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> &nbsp; &nbsp; 
+
+</br>
+</br>
+
 ##### Made with love by [Shashi Kant](https://github.com/shashikantkaushik) 💜🚀
