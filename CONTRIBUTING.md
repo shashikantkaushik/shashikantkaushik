@@ -2,6 +2,8 @@
 
 Thanks you so much for your interest in contributing to this project!
 
+<br>
+
 ## About our deal
 
 Hi! I'm Shashi Kant and i'm the creator and maintainer of this project.
