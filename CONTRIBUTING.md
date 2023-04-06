@@ -12,7 +12,7 @@ If you encounter bugs, please **do** open an issue describing the bug and includ
 
 If you have an idea for an enhancement, go ahead and share it via an issue, but please don't expect a timely response.
 
-
+<br>
 
 ## Bug reports
 
