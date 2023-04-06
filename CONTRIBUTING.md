@@ -33,3 +33,9 @@ If it is Data Science Problem-->
 - Libraries Used
 - Brief but thorough description of the issue
 - Link to a file or code (or similar) demonstrating the problem (optional, but highly recommended, especially for complex problems)
+
+If it is Web Dev Problem-->
+- Problem Statement
+- Libraries Used
+- Brief but thorough description of the issue
+- Link to a file or code (or similar) demonstrating the problem (optional, but highly recommended, especially for complex problems)
