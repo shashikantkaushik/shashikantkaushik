@@ -24,6 +24,7 @@
 - 🔧 I’m currently Studying in ..I.K.G.Punjab Technical University Mohali-1
 
 - 💡 I’m curious about ...Data Science and Flutter.
+- 💻 I'm intermediate in ...Core Java
 - 📖 I’m currently learning ...Data Structure and Algo's.
 - ❄️ I’m looking to collaborate on ...Open Source Projects.
 - 📫 How to reach me ...shashikantkaushik4@gmail.com.
